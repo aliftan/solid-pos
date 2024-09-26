@@ -35,7 +35,7 @@ const SearchBar = (props: SearchBarProps) => {
             <select
                 value={props.sortBy}
                 onChange={(e) => props.setSortBy(e.currentTarget.value)}
-                class="p-2 border border-gray-300 rounded-md bg-white focus:outline-none focus:ring-1 focus:ring-black"
+                class="w-1/5 p-2 border border-gray-300 rounded-md bg-white focus:outline-none focus:ring-1 focus:ring-black"
             >
                 <option value="price-desc">Price (High to Low)</option>
                 <option value="price-asc">Price (Low to High)</option>
