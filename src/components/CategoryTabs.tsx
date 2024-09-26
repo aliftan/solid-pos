@@ -7,6 +7,10 @@ type CategoryTabsProps = {
     setSelectedCategory: (id: string) => void;
 };
 
+/**
+ * CategoryTabs component displays a list of category tabs for product filtering.
+ * @param {CategoryTabsProps} props - The properties passed to the CategoryTabs component.
+ */
 const CategoryTabs = (props: CategoryTabsProps) => {
     return (
         <div class="mb-4 flex flex-wrap">

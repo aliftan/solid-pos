@@ -4,6 +4,10 @@ type CartSummaryProps = {
     subtotal: number;
 };
 
+/**
+ * CartSummary component displays the order summary including subtotal, discount, and grand total.
+ * @param {CartSummaryProps} props - The properties passed to the CartSummary component.
+ */
 const CartSummary = (props: CartSummaryProps) => {
     const [showDiscount, setShowDiscount] = createSignal(false);
     const [discountType, setDiscountType] = createSignal<'fixed' | 'percentage'>('fixed');
@@ -24,11 +28,18 @@ const CartSummary = (props: CartSummaryProps) => {
         setGrandTotal(props.subtotal - calculatedDiscount);
     });
 
+    /**
+     * Handles changes to the discount value input.
+     * @param {Event} e - The input change event.
+     */
     const handleDiscountChange = (e: Event) => {
         const value = parseFloat((e.target as HTMLInputElement).value);
         setDiscountValue(isNaN(value) ? 0 : value);
     };
 
+    /**
+     * Toggles the visibility of the discount section.
+     */
     const toggleDiscount = () => {
         setShowDiscount(!showDiscount());
         if (!showDiscount()) {

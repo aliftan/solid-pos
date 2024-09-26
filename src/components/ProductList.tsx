@@ -18,7 +18,14 @@ type ProductListProps = {
     removeFromCart: (productId: string) => void;
 };
 
+/**
+ * ProductList component displays the list of products with search, sort, and category filtering capabilities.
+ * @param {ProductListProps} props - The properties passed to the ProductList component.
+ */
 const ProductList = (props: ProductListProps) => {
+    /**
+     * Memoized function to check if a product is in the cart.
+     */
     const isInCart = createMemo(() => {
         const cartProductIds = new Set(props.cart.map(item => item.id));
         return (productId: string) => cartProductIds.has(productId);

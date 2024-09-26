@@ -8,6 +8,10 @@ type CartItemProps = {
     toggleAddon: (addonId: string, quantity: number) => void;
 };
 
+/**
+ * CartItemComponent displays a single item in the cart with its details and controls.
+ * @param {CartItemProps} props - The properties passed to the CartItemComponent.
+ */
 const CartItemComponent = (props: CartItemProps) => {
     return (
         <div class="border-b border-gray-200 py-4">
@@ -67,6 +71,10 @@ type AddonItemProps = {
     toggleAddon: (addonId: string, quantity: number) => void;
 };
 
+/**
+ * AddonItem component represents an addon option for a cart item.
+ * @param {AddonItemProps} props - The properties passed to the AddonItem component.
+ */
 const AddonItem = (props: AddonItemProps) => {
     const [quantity, setQuantity] = createSignal(props.quantity);
 

@@ -7,7 +7,14 @@ type SearchBarProps = {
     setSortBy: (sort: string) => void;
 };
 
+/**
+ * SearchBar component provides search and sort functionality for the product list.
+ * @param {SearchBarProps} props - The properties passed to the SearchBar component.
+ */
 const SearchBar = (props: SearchBarProps) => {
+    /**
+     * Clears the current search term.
+     */
     const clearSearch = () => {
         props.setSearchTerm('');
     };

@@ -1,34 +1,65 @@
-## Usage
+# SolidJS POS App
 
-Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
+This is a Point of Sale (POS) application built using SolidJS, demonstrating a modern, reactive approach to building user interfaces for retail and food service environments.
 
-This is the reason you see a `pnpm-lock.yaml`. That being said, any package manager will work. This file can be safely be removed once you clone a template.
+## Features
 
-```bash
-$ npm install # or pnpm install or yarn install
-```
+- Product catalog with categories
+- Real-time search and filtering
+- Shopping cart functionality
+- Add-ons for products
+- Responsive design
+- Discount application (fixed and percentage)
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
+## Technology Stack
+
+- SolidJS
+- TypeScript
+- Tailwind CSS
+- Vite
+
+## Getting Started
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install # or pnpm install or yarn install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm run dev` or `npm start`
+- `npm run dev` or `npm start`: Runs the app in development mode
+- `npm run build`: Builds the app for production to the `dist` folder
+- `npm run serve`: Serves the production build from the `dist` folder
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Project Structure
 
-The page will reload if you make edits.<br>
+- `src/App.tsx`: Main application component
+- `src/components/`: Reusable UI components
+- `src/data/`: Static data (product catalog)
+- `src/types.tsx`: TypeScript type definitions
 
-### `npm run build`
+## Customization
 
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Solid in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+You can customize the product catalog by modifying the `src/data/products.json` file.
 
 ## Deployment
 
-You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
+You can deploy the `dist` folder to any static host provider (Netlify, Vercel, AWS S3, etc.)
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Contact
+
+For any questions or feedback, please contact:
+
+Email: aliftan29@gmail.com

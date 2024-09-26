@@ -7,6 +7,10 @@ type ProductCardProps = {
     isInCart: boolean;
 };
 
+/**
+ * ProductCard component displays a single product with its details and add/remove from cart button.
+ * @param {ProductCardProps} props - The properties passed to the ProductCard component.
+ */
 const ProductCard = (props: ProductCardProps) => {
     return (
         <div class="bg-white p-4 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-200">

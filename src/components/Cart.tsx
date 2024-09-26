@@ -8,10 +8,17 @@ type CartProps = {
     setCart: (cart: CartItem[]) => void;
 };
 
+/**
+ * Cart component that displays the items in the cart and manages cart operations.
+ * @param {CartProps} props - The properties passed to the Cart component.
+ */
 const Cart = (props: CartProps) => {
     const [subtotal, setSubtotal] = createSignal(0);
     const [totalItems, setTotalItems] = createSignal(0);
 
+    /**
+     * Effect to calculate the subtotal and total number of items in the cart.
+     */
     createEffect(() => {
         const total = props.cart.reduce(
             (total, item) =>
@@ -30,16 +37,31 @@ const Cart = (props: CartProps) => {
         setTotalItems(itemCount);
     });
 
+    /**
+     * Removes an item from the cart.
+     * @param {number} index - The index of the item to remove.
+     */
     const removeFromCart = (index: number) => {
         props.setCart(props.cart.filter((_, i) => i !== index));
     };
 
+    /**
+     * Updates the quantity of an item in the cart.
+     * @param {number} index - The index of the item to update.
+     * @param {number} quantity - The new quantity.
+     */
     const updateQuantity = (index: number, quantity: number) => {
         props.setCart(
             props.cart.map((item, i) => (i === index ? { ...item, quantity } : item))
         );
     };
 
+    /**
+     * Toggles an addon for an item in the cart.
+     * @param {number} cartIndex - The index of the cart item.
+     * @param {string} addonId - The ID of the addon to toggle.
+     * @param {number} quantity - The quantity of the addon.
+     */
     const toggleAddon = (cartIndex: number, addonId: string, quantity: number) => {
         props.setCart(
             props.cart.map((item, i) =>
@@ -61,6 +83,9 @@ const Cart = (props: CartProps) => {
         );
     };
 
+    /**
+     * Clears all items from the cart.
+     */
     const clearCart = () => {
         props.setCart([]);
     };

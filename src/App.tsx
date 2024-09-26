@@ -4,6 +4,10 @@ import ProductList from './components/ProductList';
 import Cart from './components/Cart';
 import { Product, CartItem, Category } from './types';
 
+/**
+ * Main application component for the e-commerce store.
+ * Manages product categories, filtering, sorting, and shopping cart functionality.
+ */
 const App = () => {
   const [categories, setCategories] = createSignal<Category[]>(productsData.categories);
   const [selectedCategory, setSelectedCategory] = createSignal<string>(categories()[0]?.id || '');
@@ -13,11 +17,17 @@ const App = () => {
   const [sortBy, setSortBy] = createSignal<string>('name-asc');
   const [searchTerm, setSearchTerm] = createSignal<string>('');
 
+  /**
+   * Effect to update products when the selected category changes.
+   */
   createEffect(() => {
     const category = categories().find(c => c.id === selectedCategory());
     setProducts(category?.products || []);
   });
 
+  /**
+   * Effect to filter and sort products based on search term and sort criteria.
+   */
   createEffect(() => {
     let filtered = products().filter(product =>
       product.name.toLowerCase().includes(searchTerm().toLowerCase())
@@ -34,10 +44,18 @@ const App = () => {
     setFilteredProducts(filtered);
   });
 
+  /**
+   * Adds a product to the shopping cart.
+   * @param {Product} product - The product to be added to the cart.
+   */
   const addToCart = (product: Product) => {
     setCart([...cart(), { ...product, quantity: 1, selectedAddons: [] }]);
   };
 
+  /**
+   * Removes a product from the shopping cart.
+   * @param {string} productId - The ID of the product to be removed from the cart.
+   */
   const removeFromCart = (productId: string) => {
     setCart(cart().filter(item => item.id !== productId));
   };
