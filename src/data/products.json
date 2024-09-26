@@ -1,0 +1,1184 @@
+{
+    "categories": [
+        {
+            "id": "d8745323-7349-4f64-807f-b6c7dfe6adb7",
+            "name": "Category 6",
+            "products": [
+                {
+                    "id": "b36f2d55-c160-4b1d-bba4-14e0717de82c",
+                    "name": "Product 809",
+                    "image": "🍔",
+                    "price": 47.41,
+                    "addons": [
+                        {
+                            "id": "ab5a0ae2-f50d-4201-8ae5-8da6696677db",
+                            "name": "Addon 17",
+                            "price": 16.26
+                        },
+                        {
+                            "id": "08a0dec5-f266-48a8-b295-ab82d68cb80d",
+                            "name": "Addon 54",
+                            "price": 13.02
+                        },
+                        {
+                            "id": "4143d6d5-3a30-4868-94c2-6ed9c32f229d",
+                            "name": "Addon 42",
+                            "price": 23.83
+                        }
+                    ]
+                },
+                {
+                    "id": "030c85ae-8a73-45ed-a8d5-6c46b3598729",
+                    "name": "Product 660",
+                    "image": "🍉",
+                    "price": 35.37,
+                    "addons": [
+                        {
+                            "id": "81bb4eeb-186a-4746-8e18-f36f89bfabfc",
+                            "name": "Addon 91",
+                            "price": 38.41
+                        },
+                        {
+                            "id": "abfdf257-b7b4-4461-8171-54b381206c2b",
+                            "name": "Addon 52",
+                            "price": 25.72
+                        },
+                        {
+                            "id": "3f597f5e-3300-465c-ae5c-8b012f875ad1",
+                            "name": "Addon 19",
+                            "price": 8.44
+                        }
+                    ]
+                },
+                {
+                    "id": "b1383f57-9004-4b22-8864-be77e824265c",
+                    "name": "Product 766",
+                    "image": "🍉",
+                    "price": 45.21,
+                    "addons": [
+                        {
+                            "id": "a33c907a-1e34-441d-b6be-a2c5d1e1e292",
+                            "name": "Addon 16",
+                            "price": 41.59
+                        },
+                        {
+                            "id": "36fd88ef-e52d-4761-ae43-3b4bb8963f8c",
+                            "name": "Addon 18",
+                            "price": 4.0
+                        },
+                        {
+                            "id": "496ee31f-971c-4796-8596-4e217cacf940",
+                            "name": "Addon 41",
+                            "price": 32.15
+                        }
+                    ]
+                },
+                {
+                    "id": "d346ac75-4b23-428b-b5bc-1d6e3594e3db",
+                    "name": "Product 291",
+                    "image": "🥕",
+                    "price": 26.36,
+                    "addons": [
+                        {
+                            "id": "5b49121f-5e6a-4617-b93f-54a2167f9af5",
+                            "name": "Addon 83",
+                            "price": 17.09
+                        },
+                        {
+                            "id": "18a1d38d-1d84-41c9-bb43-0b3a15136407",
+                            "name": "Addon 10",
+                            "price": 42.0
+                        },
+                        {
+                            "id": "39c0e52f-7b7f-468b-8d3c-ad1bac6e589d",
+                            "name": "Addon 71",
+                            "price": 28.87
+                        }
+                    ]
+                },
+                {
+                    "id": "5717f5e0-bc27-4944-9d0b-8eb3abef672a",
+                    "name": "Product 434",
+                    "image": "🌽",
+                    "price": 32.74,
+                    "addons": [
+                        {
+                            "id": "41ce3032-d5c0-4936-8eed-6faf063b7190",
+                            "name": "Addon 53",
+                            "price": 2.07
+                        },
+                        {
+                            "id": "fbf44e6b-a6ad-458c-92c5-1795d95028a9",
+                            "name": "Addon 37",
+                            "price": 31.15
+                        },
+                        {
+                            "id": "fe5da09a-1708-4eaf-98cd-bb3b9d374b28",
+                            "name": "Addon 27",
+                            "price": 34.21
+                        }
+                    ]
+                },
+                {
+                    "id": "4080cb27-7f9b-486e-8cbb-c8ae27e56c91",
+                    "name": "Product 949",
+                    "image": "🍌",
+                    "price": 3.98,
+                    "addons": [
+                        {
+                            "id": "5fc3253c-b8a0-4545-a122-538bbf281b09",
+                            "name": "Addon 54",
+                            "price": 7.25
+                        },
+                        {
+                            "id": "efe6e6f8-dbd2-4766-8796-71788c836c84",
+                            "name": "Addon 62",
+                            "price": 33.97
+                        },
+                        {
+                            "id": "b09b9c60-80a4-458c-b902-452064bf1b5c",
+                            "name": "Addon 49",
+                            "price": 37.1
+                        }
+                    ]
+                },
+                {
+                    "id": "9588e2c6-3417-4455-8002-7d3d0a663ffc",
+                    "name": "Product 929",
+                    "image": "🍌",
+                    "price": 8.58,
+                    "addons": [
+                        {
+                            "id": "b05dc735-9080-4867-a639-6421233d1688",
+                            "name": "Addon 58",
+                            "price": 16.06
+                        },
+                        {
+                            "id": "f4b583f6-17b1-45be-88fe-6334e9aa06ec",
+                            "name": "Addon 3",
+                            "price": 26.35
+                        },
+                        {
+                            "id": "b0c547f8-0798-49a3-ae6e-ee8b9d9d52db",
+                            "name": "Addon 93",
+                            "price": 33.13
+                        }
+                    ]
+                },
+                {
+                    "id": "255076bf-66e3-4e9d-834a-3d519e75d0be",
+                    "name": "Product 686",
+                    "image": "🍍",
+                    "price": 14.93,
+                    "addons": [
+                        {
+                            "id": "cc3efa10-6656-496d-9496-48a45159c6ed",
+                            "name": "Addon 41",
+                            "price": 14.4
+                        },
+                        {
+                            "id": "059bd9c9-2e74-4afc-93a2-3dc06121e917",
+                            "name": "Addon 45",
+                            "price": 19.45
+                        },
+                        {
+                            "id": "399dbaa2-8999-4d2d-a447-d6d434286b55",
+                            "name": "Addon 74",
+                            "price": 12.93
+                        }
+                    ]
+                },
+                {
+                    "id": "3a3ad609-c550-4e30-9c2c-1bdd44dbc49b",
+                    "name": "Product 200",
+                    "image": "🍜",
+                    "price": 44.86,
+                    "addons": [
+                        {
+                            "id": "4f6dd69e-7611-45a4-b872-95325ad81bda",
+                            "name": "Addon 14",
+                            "price": 39.75
+                        },
+                        {
+                            "id": "46d113a3-1f44-4b89-ae60-370f058879a4",
+                            "name": "Addon 38",
+                            "price": 11.51
+                        },
+                        {
+                            "id": "b68cf511-f0bc-448a-b5ea-ca33d65337d5",
+                            "name": "Addon 11",
+                            "price": 19.25
+                        }
+                    ]
+                },
+                {
+                    "id": "f9e386f8-d69b-4aa2-ae72-f9852cd8b18b",
+                    "name": "Product 721",
+                    "image": "🍪",
+                    "price": 36.01,
+                    "addons": [
+                        {
+                            "id": "88b4b270-b3a8-4277-ba5c-e1b79af58802",
+                            "name": "Addon 61",
+                            "price": 17.14
+                        },
+                        {
+                            "id": "92cc1bc2-eab9-4729-886c-b801f294f238",
+                            "name": "Addon 92",
+                            "price": 14.88
+                        },
+                        {
+                            "id": "bd47507b-85ae-43c8-85b4-92845eead2e4",
+                            "name": "Addon 43",
+                            "price": 18.04
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "191e23ae-b027-48ed-bfc7-4a14dd734c99",
+            "name": "Category 5",
+            "products": [
+                {
+                    "id": "6eb6c6b2-04f2-4dc8-8e7e-09c51c4530af",
+                    "name": "Product 254",
+                    "image": "🍍",
+                    "price": 24.6,
+                    "addons": [
+                        {
+                            "id": "87326d2b-962c-42af-870d-baec79f4aef1",
+                            "name": "Addon 75",
+                            "price": 41.89
+                        },
+                        {
+                            "id": "267966bc-11dc-4dcc-b218-f73fc2188267",
+                            "name": "Addon 94",
+                            "price": 15.49
+                        },
+                        {
+                            "id": "a6ef9ce4-b269-43b2-92ea-6c03dc6404d2",
+                            "name": "Addon 75",
+                            "price": 29.46
+                        }
+                    ]
+                },
+                {
+                    "id": "34232d7c-ae72-44d5-bd05-d44892b2c278",
+                    "name": "Product 825",
+                    "image": "🍩",
+                    "price": 12.81,
+                    "addons": [
+                        {
+                            "id": "d647cc91-683a-4c4f-8095-32a3644ae4f6",
+                            "name": "Addon 11",
+                            "price": 7.93
+                        },
+                        {
+                            "id": "9a413056-100a-4a3d-9157-134f14560bad",
+                            "name": "Addon 53",
+                            "price": 15.86
+                        },
+                        {
+                            "id": "5da40c1c-6892-4c08-b654-de2fe67c2dc2",
+                            "name": "Addon 42",
+                            "price": 15.35
+                        }
+                    ]
+                },
+                {
+                    "id": "6b999261-39e2-411f-96b2-d89b87ab5c69",
+                    "name": "Product 316",
+                    "image": "☕️",
+                    "price": 31.49,
+                    "addons": [
+                        {
+                            "id": "0a043de5-c514-4f18-8ede-5a702d7f8c16",
+                            "name": "Addon 60",
+                            "price": 16.94
+                        },
+                        {
+                            "id": "a8dd77a1-048f-4a33-9cb5-3cc7f54c13b5",
+                            "name": "Addon 17",
+                            "price": 30.41
+                        },
+                        {
+                            "id": "6d02ffa0-f301-48e5-8417-d176e39f9861",
+                            "name": "Addon 8",
+                            "price": 32.66
+                        }
+                    ]
+                },
+                {
+                    "id": "17caf5eb-97f4-4da3-ba01-45cfcdaf7b1a",
+                    "name": "Product 119",
+                    "image": "🍣",
+                    "price": 39.56,
+                    "addons": [
+                        {
+                            "id": "e7a05163-b244-4657-b3b8-901bf8269695",
+                            "name": "Addon 65",
+                            "price": 1.81
+                        },
+                        {
+                            "id": "8494388b-4d1e-49b0-a1ed-87495c7e760b",
+                            "name": "Addon 2",
+                            "price": 40.4
+                        },
+                        {
+                            "id": "845caadc-ae5b-4239-9291-9d9f39d4f958",
+                            "name": "Addon 44",
+                            "price": 16.59
+                        }
+                    ]
+                },
+                {
+                    "id": "73b0567a-406b-4971-96ab-c4e0b5c93579",
+                    "name": "Product 117",
+                    "image": "🍌",
+                    "price": 32.72,
+                    "addons": [
+                        {
+                            "id": "4107e8a2-0dd9-4067-a692-e2b549e8c07a",
+                            "name": "Addon 1",
+                            "price": 20.97
+                        },
+                        {
+                            "id": "b9281ea5-1e86-45d1-a3a5-e460e74898a3",
+                            "name": "Addon 65",
+                            "price": 30.57
+                        },
+                        {
+                            "id": "a587bbc0-6770-4237-91c0-a1b7773ac4a2",
+                            "name": "Addon 27",
+                            "price": 23.89
+                        }
+                    ]
+                },
+                {
+                    "id": "b31c0022-db13-4bdb-afbd-853eb3c90366",
+                    "name": "Product 776",
+                    "image": "🍔",
+                    "price": 47.37,
+                    "addons": [
+                        {
+                            "id": "49f33943-8269-4656-af1c-0d68bdee0f90",
+                            "name": "Addon 26",
+                            "price": 49.59
+                        },
+                        {
+                            "id": "e05027aa-d00c-4f28-bacd-c0a5790fc028",
+                            "name": "Addon 12",
+                            "price": 30.3
+                        },
+                        {
+                            "id": "efb34206-aa5d-42d4-a162-722a8ad38289",
+                            "name": "Addon 81",
+                            "price": 11.43
+                        }
+                    ]
+                },
+                {
+                    "id": "c5187092-21d5-4050-a94d-0d6bfad0021c",
+                    "name": "Product 883",
+                    "image": "🍜",
+                    "price": 31.32,
+                    "addons": [
+                        {
+                            "id": "48c20b2b-0001-40dc-ad4f-2f6c11bc942c",
+                            "name": "Addon 94",
+                            "price": 20.78
+                        },
+                        {
+                            "id": "a0229b04-9ba4-4243-a506-90e7a8e13efb",
+                            "name": "Addon 10",
+                            "price": 47.31
+                        },
+                        {
+                            "id": "24eb6ad2-d9c2-4b11-9a0a-13e257d99a48",
+                            "name": "Addon 86",
+                            "price": 30.52
+                        }
+                    ]
+                },
+                {
+                    "id": "6a48fdf0-b7d9-44f9-a9a5-bda2bb8f78a0",
+                    "name": "Product 65",
+                    "image": "🍓",
+                    "price": 36.33,
+                    "addons": [
+                        {
+                            "id": "b1030781-5f51-410c-b1c8-9683dde7c91c",
+                            "name": "Addon 36",
+                            "price": 31.23
+                        },
+                        {
+                            "id": "f5d44873-cc65-4b18-9932-a5d497f327bc",
+                            "name": "Addon 94",
+                            "price": 16.85
+                        },
+                        {
+                            "id": "38b2d438-11d7-4ce8-bb0f-0c6de71a01dc",
+                            "name": "Addon 28",
+                            "price": 23.46
+                        }
+                    ]
+                },
+                {
+                    "id": "d84bb628-b32b-48c2-ac2d-19d09ffc702c",
+                    "name": "Product 653",
+                    "image": "🥕",
+                    "price": 40.54,
+                    "addons": [
+                        {
+                            "id": "7f2b1910-5034-4c43-a30a-25c76cf04608",
+                            "name": "Addon 7",
+                            "price": 46.31
+                        },
+                        {
+                            "id": "85b7f6fe-1678-4b40-829d-63f3d2d62c9c",
+                            "name": "Addon 65",
+                            "price": 49.4
+                        },
+                        {
+                            "id": "eec1666c-5ff0-4937-b2d6-e98d075f3ea3",
+                            "name": "Addon 5",
+                            "price": 8.37
+                        }
+                    ]
+                },
+                {
+                    "id": "5873729f-053f-4a7f-8a24-2e0a473af368",
+                    "name": "Product 24",
+                    "image": "🥑",
+                    "price": 5.56,
+                    "addons": [
+                        {
+                            "id": "41b0bb32-d75b-436a-93ae-d64785f3b769",
+                            "name": "Addon 56",
+                            "price": 44.23
+                        },
+                        {
+                            "id": "0acbac06-3769-4568-8149-7a573b9f5d2d",
+                            "name": "Addon 1",
+                            "price": 3.73
+                        },
+                        {
+                            "id": "38f053a2-54f7-41dc-a3a9-067392540c88",
+                            "name": "Addon 69",
+                            "price": 21.16
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "6212252d-cd6b-46a7-9f1d-ca027ff41772",
+            "name": "Category 4",
+            "products": [
+                {
+                    "id": "a71febb8-403d-40c6-a285-3db53c1d1120",
+                    "name": "Product 30",
+                    "image": "🍰",
+                    "price": 45.59,
+                    "addons": [
+                        {
+                            "id": "c45e4eb6-d954-4fbc-a4e8-fa670dd50c33",
+                            "name": "Addon 33",
+                            "price": 6.75
+                        },
+                        {
+                            "id": "e82b85d9-3cac-4a58-a7e0-fd409a345325",
+                            "name": "Addon 95",
+                            "price": 13.4
+                        },
+                        {
+                            "id": "cb01c165-8915-46d4-9633-741aa8d63468",
+                            "name": "Addon 92",
+                            "price": 1.93
+                        }
+                    ]
+                },
+                {
+                    "id": "4a51be67-aadf-45ca-8bcf-5e9d982d828d",
+                    "name": "Product 62",
+                    "image": "🍰",
+                    "price": 1.08,
+                    "addons": [
+                        {
+                            "id": "b09dde05-693b-4cb1-bee9-c0b181be3f44",
+                            "name": "Addon 99",
+                            "price": 9.27
+                        },
+                        {
+                            "id": "2ea7bada-3b35-4d92-809d-fece120ec562",
+                            "name": "Addon 71",
+                            "price": 1.23
+                        },
+                        {
+                            "id": "6ede96a3-dabf-4ed2-b71e-763fdc06cfed",
+                            "name": "Addon 1",
+                            "price": 37.06
+                        }
+                    ]
+                },
+                {
+                    "id": "fff0ef92-fc9c-4985-8589-ad6325050df6",
+                    "name": "Product 896",
+                    "image": "🍇",
+                    "price": 12.36,
+                    "addons": [
+                        {
+                            "id": "f399d9b1-4295-4a69-b06b-37d11348b81b",
+                            "name": "Addon 27",
+                            "price": 8.84
+                        },
+                        {
+                            "id": "163a6efe-4406-4903-a0fb-0e3286a4fd7d",
+                            "name": "Addon 97",
+                            "price": 26.19
+                        },
+                        {
+                            "id": "cbb3f35c-298f-496d-875e-d13e513a4e5e",
+                            "name": "Addon 3",
+                            "price": 12.31
+                        }
+                    ]
+                },
+                {
+                    "id": "2ed5a363-4902-448d-b893-92c2e52cf58d",
+                    "name": "Product 566",
+                    "image": "🍰",
+                    "price": 24.4,
+                    "addons": [
+                        {
+                            "id": "cd0333f1-d401-45b4-96d9-f6507f6fba8c",
+                            "name": "Addon 70",
+                            "price": 38.54
+                        },
+                        {
+                            "id": "0e7e542a-66c4-4025-8b8f-a2ba8176b003",
+                            "name": "Addon 46",
+                            "price": 45.7
+                        },
+                        {
+                            "id": "85be4d14-404b-4ba8-9750-1164a09681d6",
+                            "name": "Addon 42",
+                            "price": 30.46
+                        }
+                    ]
+                },
+                {
+                    "id": "681301c3-7f99-42bd-a4cc-cc7f63f2df29",
+                    "name": "Product 33",
+                    "image": "🍉",
+                    "price": 1.24,
+                    "addons": [
+                        {
+                            "id": "b24ab0c8-9819-4abb-9d3f-88c17a0a8b85",
+                            "name": "Addon 60",
+                            "price": 18.09
+                        },
+                        {
+                            "id": "c0dc572b-0682-4aeb-8291-840df13fed0d",
+                            "name": "Addon 6",
+                            "price": 6.44
+                        },
+                        {
+                            "id": "18d17ed8-ea56-49dc-841b-9ab2a0d902be",
+                            "name": "Addon 67",
+                            "price": 45.01
+                        }
+                    ]
+                },
+                {
+                    "id": "1e5e934f-8523-436f-aad9-a0f8c5306068",
+                    "name": "Product 13",
+                    "image": "🍜",
+                    "price": 46.62,
+                    "addons": [
+                        {
+                            "id": "b3ad024d-0fa2-479b-922b-252549e7f429",
+                            "name": "Addon 52",
+                            "price": 40.9
+                        },
+                        {
+                            "id": "008889e2-f4ef-420f-92c2-06a4c8905347",
+                            "name": "Addon 89",
+                            "price": 12.07
+                        },
+                        {
+                            "id": "99790414-fb20-4f4b-b832-8568c6e71233",
+                            "name": "Addon 54",
+                            "price": 28.76
+                        }
+                    ]
+                },
+                {
+                    "id": "59636d89-7e0c-486e-856a-b8caaff85f0e",
+                    "name": "Product 365",
+                    "image": "🍰",
+                    "price": 16.11,
+                    "addons": [
+                        {
+                            "id": "d490b31f-8c63-476a-8e2b-84615e6ae019",
+                            "name": "Addon 20",
+                            "price": 17.73
+                        },
+                        {
+                            "id": "8ff02446-7987-4d66-a533-3dc817561edd",
+                            "name": "Addon 92",
+                            "price": 43.8
+                        },
+                        {
+                            "id": "d18fc324-fdd7-4438-853a-fff46ee1b210",
+                            "name": "Addon 57",
+                            "price": 22.3
+                        }
+                    ]
+                },
+                {
+                    "id": "3992fb3d-1838-4327-a9cc-c6fbb9303d5f",
+                    "name": "Product 51",
+                    "image": "🍓",
+                    "price": 5.81,
+                    "addons": [
+                        {
+                            "id": "c693526e-e0a6-43e5-bb05-953c43ae5a67",
+                            "name": "Addon 90",
+                            "price": 36.35
+                        },
+                        {
+                            "id": "6896cd2e-6820-4367-a469-b4b2bc3b9f2a",
+                            "name": "Addon 5",
+                            "price": 44.04
+                        },
+                        {
+                            "id": "1cf12926-72f8-4707-97dc-ae6334453f8a",
+                            "name": "Addon 26",
+                            "price": 47.67
+                        }
+                    ]
+                },
+                {
+                    "id": "2fcd3ad7-df80-4009-8621-616c042fd414",
+                    "name": "Product 804",
+                    "image": "🍩",
+                    "price": 29.98,
+                    "addons": [
+                        {
+                            "id": "019c8139-2cdc-4471-ab0e-10aaf69241d9",
+                            "name": "Addon 29",
+                            "price": 38.02
+                        },
+                        {
+                            "id": "7c84cbc9-89ee-44e0-9946-e46fb51bd287",
+                            "name": "Addon 5",
+                            "price": 20.88
+                        },
+                        {
+                            "id": "1d8f465e-0b84-41a0-82e2-ee796e0f48e3",
+                            "name": "Addon 16",
+                            "price": 20.03
+                        }
+                    ]
+                },
+                {
+                    "id": "1c0c3a8d-d870-4137-ab06-c210617f0a00",
+                    "name": "Product 832",
+                    "image": "🥕",
+                    "price": 2.89,
+                    "addons": [
+                        {
+                            "id": "124f5832-3887-4b88-b951-a4ecdbd46ecc",
+                            "name": "Addon 2",
+                            "price": 20.35
+                        },
+                        {
+                            "id": "36abfdd6-95e3-45a7-8cdd-d59ced67c11a",
+                            "name": "Addon 96",
+                            "price": 8.87
+                        },
+                        {
+                            "id": "9c0e79f9-82a9-4dcf-ab14-b888ce19f3d5",
+                            "name": "Addon 56",
+                            "price": 23.53
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "fbd6a90b-20a0-42a7-b9b0-0b9e43ff71f3",
+            "name": "Category 5",
+            "products": [
+                {
+                    "id": "bc148c4c-04af-4e28-b4e3-8ddec4dbf9f8",
+                    "name": "Product 725",
+                    "image": "🍌",
+                    "price": 30.38,
+                    "addons": [
+                        {
+                            "id": "6e7765dc-4390-40f8-860a-de790321b231",
+                            "name": "Addon 49",
+                            "price": 3.3
+                        },
+                        {
+                            "id": "054d17ba-5a60-4a42-9ea2-bfc15ef0a9bf",
+                            "name": "Addon 41",
+                            "price": 46.74
+                        },
+                        {
+                            "id": "503a1363-f7d2-4fd4-9d0b-c4872970c9a7",
+                            "name": "Addon 22",
+                            "price": 10.71
+                        }
+                    ]
+                },
+                {
+                    "id": "d2cba6f3-224c-4f0f-bfff-bfd84ffb24df",
+                    "name": "Product 549",
+                    "image": "🍇",
+                    "price": 37.96,
+                    "addons": [
+                        {
+                            "id": "a3242800-b625-45f0-a0e0-ed6348b43def",
+                            "name": "Addon 8",
+                            "price": 41.62
+                        },
+                        {
+                            "id": "c7146f29-570d-45cb-8cae-a348a9c7b9bf",
+                            "name": "Addon 75",
+                            "price": 5.87
+                        },
+                        {
+                            "id": "f791e15a-6cfc-47b1-b15b-270cadc6107d",
+                            "name": "Addon 85",
+                            "price": 37.9
+                        }
+                    ]
+                },
+                {
+                    "id": "d3052478-bbb9-4029-9222-f64be7054f06",
+                    "name": "Product 620",
+                    "image": "🍪",
+                    "price": 43.99,
+                    "addons": [
+                        {
+                            "id": "66666da8-d851-4b7e-ab61-cec1616b2f1d",
+                            "name": "Addon 16",
+                            "price": 23.94
+                        },
+                        {
+                            "id": "c31a8046-659b-4ff3-8f03-acf9f6eb202f",
+                            "name": "Addon 87",
+                            "price": 37.9
+                        },
+                        {
+                            "id": "98d0942d-04e4-4a66-adc4-dd1e57fc705e",
+                            "name": "Addon 13",
+                            "price": 18.09
+                        }
+                    ]
+                },
+                {
+                    "id": "46809247-affd-4567-ba5e-8bddd2b006c0",
+                    "name": "Product 135",
+                    "image": "🍪",
+                    "price": 14.86,
+                    "addons": [
+                        {
+                            "id": "356b8929-9d0c-45dc-80a6-bef2866a34ad",
+                            "name": "Addon 14",
+                            "price": 41.49
+                        },
+                        {
+                            "id": "fe007140-1f59-4b13-a85a-6f7aedea7aef",
+                            "name": "Addon 24",
+                            "price": 47.32
+                        },
+                        {
+                            "id": "4e99a576-7e75-4b67-9654-90a32c5227e3",
+                            "name": "Addon 75",
+                            "price": 7.44
+                        }
+                    ]
+                },
+                {
+                    "id": "c5a37290-1de5-4411-94c5-4064f850b1da",
+                    "name": "Product 847",
+                    "image": "🍪",
+                    "price": 35.16,
+                    "addons": [
+                        {
+                            "id": "5bef4892-1373-4a37-8fd5-3913f202b7e8",
+                            "name": "Addon 1",
+                            "price": 2.28
+                        },
+                        {
+                            "id": "a1abb07c-0e98-4cb9-bdeb-b7cd39ad3ecf",
+                            "name": "Addon 100",
+                            "price": 25.01
+                        },
+                        {
+                            "id": "02099e7b-9922-4318-bd07-46f27d40bdfa",
+                            "name": "Addon 47",
+                            "price": 11.3
+                        }
+                    ]
+                },
+                {
+                    "id": "de2b8d60-7cec-48f6-b5e6-ef92b9e00626",
+                    "name": "Product 734",
+                    "image": "🥕",
+                    "price": 28.37,
+                    "addons": [
+                        {
+                            "id": "3b831fd7-1ea9-4434-adf3-752b67a609cc",
+                            "name": "Addon 81",
+                            "price": 36.22
+                        },
+                        {
+                            "id": "93831fdd-f706-41c5-b405-f1ed358f1758",
+                            "name": "Addon 74",
+                            "price": 19.92
+                        },
+                        {
+                            "id": "153fe330-4b71-4632-9499-10e08c7d812d",
+                            "name": "Addon 43",
+                            "price": 7.79
+                        }
+                    ]
+                },
+                {
+                    "id": "9ac883f0-cbb8-4ebe-8341-9b1269e7abc6",
+                    "name": "Product 838",
+                    "image": "🍇",
+                    "price": 26.16,
+                    "addons": [
+                        {
+                            "id": "07a242bc-4fd0-47f9-98e8-d98befa0cfaa",
+                            "name": "Addon 26",
+                            "price": 45.15
+                        },
+                        {
+                            "id": "5b211e8b-5f34-4fb6-9388-9c285c4ad203",
+                            "name": "Addon 55",
+                            "price": 21.23
+                        },
+                        {
+                            "id": "2ada70d0-1720-48ff-b9e7-f09d121505cb",
+                            "name": "Addon 31",
+                            "price": 24.79
+                        }
+                    ]
+                },
+                {
+                    "id": "a3085779-b997-4722-a0b3-86f52a9fec98",
+                    "name": "Product 736",
+                    "image": "🍌",
+                    "price": 9.91,
+                    "addons": [
+                        {
+                            "id": "cffb36a5-f04c-464b-9914-fd6dfb011804",
+                            "name": "Addon 41",
+                            "price": 23.4
+                        },
+                        {
+                            "id": "49db0bd2-dc53-4348-aa6b-22b2cfbc0043",
+                            "name": "Addon 3",
+                            "price": 37.7
+                        },
+                        {
+                            "id": "59b01869-517e-4270-8e36-1f8c1f967194",
+                            "name": "Addon 67",
+                            "price": 19.16
+                        }
+                    ]
+                },
+                {
+                    "id": "a480949b-46cb-4eb4-b841-b180c377cab6",
+                    "name": "Product 382",
+                    "image": "🌽",
+                    "price": 42.08,
+                    "addons": [
+                        {
+                            "id": "84635e3a-70f6-4db2-8e64-74dfbef6939d",
+                            "name": "Addon 77",
+                            "price": 35.68
+                        },
+                        {
+                            "id": "bb038811-6176-4cf5-b144-28b96436c280",
+                            "name": "Addon 60",
+                            "price": 26.99
+                        },
+                        {
+                            "id": "80b7caa9-98a6-4b9d-ad78-c988299bd219",
+                            "name": "Addon 24",
+                            "price": 49.49
+                        }
+                    ]
+                },
+                {
+                    "id": "e4b86e89-e86b-4da3-8db3-9330b84c72fc",
+                    "name": "Product 615",
+                    "image": "🍕",
+                    "price": 21.82,
+                    "addons": [
+                        {
+                            "id": "be82bd5c-e72b-4c59-a808-ebafb60fc101",
+                            "name": "Addon 17",
+                            "price": 5.28
+                        },
+                        {
+                            "id": "122e6237-484d-4f60-bdc6-0be9c3d0a49f",
+                            "name": "Addon 20",
+                            "price": 3.22
+                        },
+                        {
+                            "id": "f28a41bd-d440-407d-a275-84604986b24b",
+                            "name": "Addon 93",
+                            "price": 9.64
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "b60fef48-ac6c-4679-bcfb-7a97ef8c86fa",
+            "name": "Category 7",
+            "products": [
+                {
+                    "id": "366c0fa1-2f98-4dd0-b1fc-8480dcc2b38c",
+                    "name": "Product 865",
+                    "image": "🍔",
+                    "price": 43.89,
+                    "addons": [
+                        {
+                            "id": "8af6de91-c625-4a9e-9ebb-ebc9fdde4f7e",
+                            "name": "Addon 36",
+                            "price": 32.72
+                        },
+                        {
+                            "id": "c3e95b65-e1e2-49ca-aeb4-59a92e7ef174",
+                            "name": "Addon 35",
+                            "price": 34.3
+                        },
+                        {
+                            "id": "0baee64f-f60c-41f3-aeb9-56f5fc2cd818",
+                            "name": "Addon 36",
+                            "price": 45.99
+                        }
+                    ]
+                },
+                {
+                    "id": "37df2d93-93d1-446c-9873-d855204c7144",
+                    "name": "Product 14",
+                    "image": "🌽",
+                    "price": 20.75,
+                    "addons": [
+                        {
+                            "id": "244d3202-9cf2-4a0c-9322-b40c99417c2a",
+                            "name": "Addon 40",
+                            "price": 17.53
+                        },
+                        {
+                            "id": "c6557559-a5c6-43d8-8cc3-f91f73081d9d",
+                            "name": "Addon 89",
+                            "price": 33.19
+                        },
+                        {
+                            "id": "648fc611-2a57-4480-b3f5-63a5c18f4725",
+                            "name": "Addon 65",
+                            "price": 21.32
+                        }
+                    ]
+                },
+                {
+                    "id": "09100fdc-5fc7-49c9-9ceb-99e916887a0f",
+                    "name": "Product 734",
+                    "image": "🍉",
+                    "price": 49.54,
+                    "addons": [
+                        {
+                            "id": "da9873e4-a3d0-4f46-9d8a-611e406468a7",
+                            "name": "Addon 85",
+                            "price": 16.07
+                        },
+                        {
+                            "id": "14ee903c-b7ca-4bae-ba18-210ce553d2c4",
+                            "name": "Addon 99",
+                            "price": 44.42
+                        },
+                        {
+                            "id": "1f91426c-8b75-4813-ae2d-086799895036",
+                            "name": "Addon 56",
+                            "price": 13.61
+                        }
+                    ]
+                },
+                {
+                    "id": "56a5b71e-9324-4710-b5ff-eaf96cd4c477",
+                    "name": "Product 64",
+                    "image": "🥕",
+                    "price": 24.76,
+                    "addons": [
+                        {
+                            "id": "5c91c379-fc98-45eb-9f8d-95770c9aaf03",
+                            "name": "Addon 19",
+                            "price": 33.81
+                        },
+                        {
+                            "id": "1b0a2a86-10c9-4c47-a5d8-b8ceebd9800a",
+                            "name": "Addon 26",
+                            "price": 27.33
+                        },
+                        {
+                            "id": "63b88a5c-7a99-4a8e-a446-942e4718b8ae",
+                            "name": "Addon 26",
+                            "price": 9.81
+                        }
+                    ]
+                },
+                {
+                    "id": "bbf64bf1-46d8-4de9-8362-fbb7a20f0cc5",
+                    "name": "Product 186",
+                    "image": "🍕",
+                    "price": 46.84,
+                    "addons": [
+                        {
+                            "id": "7443c790-4191-47a3-8c7e-3869db21d11c",
+                            "name": "Addon 98",
+                            "price": 49.67
+                        },
+                        {
+                            "id": "a33a0a73-ebd5-4579-90e2-7151e1ab6b33",
+                            "name": "Addon 60",
+                            "price": 8.3
+                        },
+                        {
+                            "id": "d07069de-7d8c-40bf-8966-91d41a242d79",
+                            "name": "Addon 81",
+                            "price": 11.02
+                        }
+                    ]
+                },
+                {
+                    "id": "188b3538-c873-4ddb-bd8c-8e47fe6e8ba9",
+                    "name": "Product 840",
+                    "image": "☕️",
+                    "price": 41.94,
+                    "addons": [
+                        {
+                            "id": "67845614-0ba9-407e-92da-c5d3208c0a3b",
+                            "name": "Addon 71",
+                            "price": 25.33
+                        },
+                        {
+                            "id": "726ed615-3bb5-4dbe-9136-5ba8013528f0",
+                            "name": "Addon 87",
+                            "price": 26.37
+                        },
+                        {
+                            "id": "1616935e-2ff4-4068-8015-974c2ee47216",
+                            "name": "Addon 28",
+                            "price": 17.78
+                        }
+                    ]
+                },
+                {
+                    "id": "970e67c1-79fa-4079-a21e-2f2887d5e219",
+                    "name": "Product 897",
+                    "image": "🍕",
+                    "price": 45.09,
+                    "addons": [
+                        {
+                            "id": "91edf3b1-d732-4dc2-afa4-9bdbe543e7f5",
+                            "name": "Addon 70",
+                            "price": 32.31
+                        },
+                        {
+                            "id": "cd1af156-0fe0-418a-ad7c-8be4fbd3b88f",
+                            "name": "Addon 47",
+                            "price": 49.42
+                        },
+                        {
+                            "id": "8ccabc12-2dde-4949-83f5-baccd1a52104",
+                            "name": "Addon 99",
+                            "price": 41.75
+                        }
+                    ]
+                },
+                {
+                    "id": "952e08b7-628e-43de-bd91-50a902452651",
+                    "name": "Product 916",
+                    "image": "🍌",
+                    "price": 38.92,
+                    "addons": [
+                        {
+                            "id": "70c8fd90-7dc0-4d55-a19d-e57ecdc4cd22",
+                            "name": "Addon 49",
+                            "price": 6.31
+                        },
+                        {
+                            "id": "9b40bbca-2b63-4ae1-999f-dbc910e93f6f",
+                            "name": "Addon 70",
+                            "price": 35.91
+                        },
+                        {
+                            "id": "3e22ae23-dd68-45c7-a766-075336fc146b",
+                            "name": "Addon 50",
+                            "price": 12.23
+                        }
+                    ]
+                },
+                {
+                    "id": "33ef02e1-7c92-4e18-b2dd-6416b73006c6",
+                    "name": "Product 967",
+                    "image": "🍩",
+                    "price": 24.33,
+                    "addons": [
+                        {
+                            "id": "6f04642a-2a2b-4a38-8fc6-6e4544b11992",
+                            "name": "Addon 14",
+                            "price": 25.9
+                        },
+                        {
+                            "id": "692ed80e-65c1-482c-9324-06debd0f322e",
+                            "name": "Addon 41",
+                            "price": 35.56
+                        },
+                        {
+                            "id": "3054be2e-cc99-43b3-9e4e-0af4c477d5c7",
+                            "name": "Addon 90",
+                            "price": 4.49
+                        }
+                    ]
+                },
+                {
+                    "id": "b7cf3658-4f07-4d16-bbbf-0a25a0b311b4",
+                    "name": "Product 984",
+                    "image": "🍓",
+                    "price": 47.38,
+                    "addons": [
+                        {
+                            "id": "6f4e83dd-6566-4bce-ab43-eb2f3a670443",
+                            "name": "Addon 4",
+                            "price": 12.27
+                        },
+                        {
+                            "id": "005f403e-8200-4e8e-b9e9-b738753e41a0",
+                            "name": "Addon 44",
+                            "price": 48.76
+                        },
+                        {
+                            "id": "a775e591-e16e-4a81-bfad-ade82e0197f3",
+                            "name": "Addon 14",
+                            "price": 42.26
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
